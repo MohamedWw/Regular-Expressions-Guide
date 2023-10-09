@@ -59,4 +59,4 @@
   - `(they're )?colou?rs`.
 - they are colours, they are colors: 
   - `they are` is also accepted.
-  - `(they('|a)re )?colou?rs`.
+  - `(they('| a)re )?colou?rs`.
