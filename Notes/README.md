@@ -122,7 +122,8 @@
     - E.g.: `\S` or `[^ \t\n\r\f\v]` match `a` and `-b` in `a -b`.
     - E.g.: `\S\S\S` or `[^ \t\n\r\f\v][^ \t\n\r\f\v][^ \t\n\r\f\v]` match `Mos` and `afa` in `Mos   afa`.
     - ![img](img/_S_S_S.svg)
-  
+
+  >> Use \s rather than \b for white spaces
 ## Backslash
 - **Backslashes**: To refer to characters that are special themselves. 
   - **\\***: Matches the `*`.
